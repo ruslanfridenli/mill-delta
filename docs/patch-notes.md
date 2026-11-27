@@ -122,3 +122,4 @@
 - patch 72 — mill delta — synth pad
 - patch 73 — mill delta — synth pad
 - patch 74 — mill delta — synth pad
+- patch 75 — mill delta — synth pad
