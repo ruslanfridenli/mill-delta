@@ -143,3 +143,4 @@
 - patch 93 — mill delta — synth pad
 - patch 94 — mill delta — synth pad
 - patch 95 — mill delta — synth pad
+- patch 96 — mill delta — synth pad
