@@ -16,3 +16,4 @@
 - patch 15 — mill delta — synth pad
 - patch 16 — mill delta — synth pad
 - patch 1 — mill delta — synth pad
+- patch 2 — mill delta — synth pad
