@@ -135,3 +135,4 @@
 - patch 85 — mill delta — synth pad
 - patch 86 — mill delta — synth pad
 - patch 87 — mill delta — synth pad
+- patch 88 — mill delta — synth pad
