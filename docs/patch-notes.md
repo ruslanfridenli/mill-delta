@@ -99,3 +99,4 @@
 - patch 49 — mill delta — synth pad
 - patch 50 — mill delta — synth pad
 - patch 51 — mill delta — synth pad
+- patch 52 — mill delta — synth pad
