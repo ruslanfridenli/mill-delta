@@ -242,3 +242,4 @@
 - patch 192 — mill delta — synth pad
 - patch 193 — mill delta — synth pad
 - patch 194 — mill delta — synth pad
+- patch 195 — mill delta — synth pad
