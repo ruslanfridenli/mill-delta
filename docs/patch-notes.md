@@ -113,3 +113,4 @@
 - patch 63 — mill delta — synth pad
 - patch 64 — mill delta — synth pad
 - patch 65 — mill delta — synth pad
+- patch 66 — mill delta — synth pad
