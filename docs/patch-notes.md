@@ -78,3 +78,4 @@
 - patch 28 — mill delta — synth pad
 - patch 29 — mill delta — synth pad
 - patch 30 — mill delta — synth pad
+- patch 31 — mill delta — synth pad
