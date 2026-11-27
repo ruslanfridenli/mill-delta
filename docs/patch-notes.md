@@ -58,3 +58,4 @@
 - patch 8 — mill delta — synth pad
 - patch 9 — mill delta — synth pad
 - patch 10 — mill delta — synth pad
+- patch 11 — mill delta — synth pad
