@@ -203,3 +203,4 @@
 - patch 153 — mill delta — synth pad
 - patch 154 — mill delta — synth pad
 - patch 155 — mill delta — synth pad
+- patch 156 — mill delta — synth pad
