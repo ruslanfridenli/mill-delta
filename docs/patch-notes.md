@@ -288,3 +288,4 @@
 - patch 238 — mill delta — synth pad
 - patch 239 — mill delta — synth pad
 - patch 240 — mill delta — synth pad
+- patch 241 — mill delta — synth pad
