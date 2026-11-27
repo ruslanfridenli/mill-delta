@@ -127,3 +127,4 @@
 - patch 77 — mill delta — synth pad
 - patch 78 — mill delta — synth pad
 - patch 79 — mill delta — synth pad
+- patch 80 — mill delta — synth pad
