@@ -159,3 +159,4 @@
 - patch 109 — mill delta — synth pad
 - patch 110 — mill delta — synth pad
 - patch 111 — mill delta — synth pad
+- patch 112 — mill delta — synth pad
