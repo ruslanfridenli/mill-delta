@@ -49,3 +49,4 @@
 - patch 32 — mill delta — synth pad
 - patch 33 — mill delta — synth pad
 - patch 34 — mill delta — synth pad
+- patch 2 — mill delta — synth pad
