@@ -275,3 +275,4 @@
 - patch 225 — mill delta — synth pad
 - patch 226 — mill delta — synth pad
 - patch 227 — mill delta — synth pad
+- patch 228 — mill delta — synth pad
