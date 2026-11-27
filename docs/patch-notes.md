@@ -23,3 +23,4 @@
 - patch 6 — mill delta — synth pad
 - patch 7 — mill delta — synth pad
 - patch 8 — mill delta — synth pad
+- patch 9 — mill delta — synth pad
