@@ -102,3 +102,4 @@
 - patch 52 — mill delta — synth pad
 - patch 53 — mill delta — synth pad
 - patch 54 — mill delta — synth pad
+- patch 55 — mill delta — synth pad
