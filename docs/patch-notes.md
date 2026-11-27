@@ -189,3 +189,4 @@
 - patch 139 — mill delta — synth pad
 - patch 140 — mill delta — synth pad
 - patch 141 — mill delta — synth pad
+- patch 142 — mill delta — synth pad
