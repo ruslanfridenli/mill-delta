@@ -89,3 +89,4 @@
 - patch 39 — mill delta — synth pad
 - patch 40 — mill delta — synth pad
 - patch 41 — mill delta — synth pad
+- patch 42 — mill delta — synth pad
