@@ -238,3 +238,4 @@
 - patch 188 — mill delta — synth pad
 - patch 189 — mill delta — synth pad
 - patch 190 — mill delta — synth pad
+- patch 191 — mill delta — synth pad
